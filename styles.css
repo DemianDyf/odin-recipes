@@ -1,0 +1,74 @@
+/* stylesheet */
+
+body{
+  background-color:beige;
+
+
+
+
+
+}
+
+
+
+h1, h2 {
+
+  font-family: "Brush Script MT", Garamond, sans-serif;
+  color: darkred;
+  font-style: italic;
+}
+
+
+img, ul, ol{
+
+  border-style: solid;
+  border-width: 2px;
+  border-color: gray;
+  border-radius: 16px;
+
+
+}
+
+img{
+  
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: auto;
+    
+}
+
+ul, ol{
+  padding: 20px;
+  margin: 8px;
+
+
+
+
+}
+
+ul{
+
+  list-style: square;
+  background: whitesmoke;
+
+}
+
+li {
+  
+  padding: 4px;
+
+}
+
+
+ol{
+  list-style: upper-roman;
+  background: lightblue;
+
+}
+
+.coolink{
+  color: hotpink;
+  
+
+}
